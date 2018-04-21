@@ -1,2 +1,2 @@
 # Summary
-A short snippet of what I did for my college courses
+A short snippet of what I kind of projects I have done.
