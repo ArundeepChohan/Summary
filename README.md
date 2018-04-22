@@ -1,2 +1,2 @@
 # Summary
-A short snippet of what I kind of projects I have done.
+A short snippet of what kind of projects I have done.
