@@ -1,6 +1,6 @@
 # Summary
 A short snippet of what kind of projects I have done.
-![Screenshot](https://github.com/achohan01/Summary/blob/master/RiseOfGallantMon.png)
+![Screenshot](https://github.com/achohan01/Summary/blob/master/RiseofGallantmon.png)
 ![Screenshot](https://github.com/achohan01/Summary/blob/master/Chess%20Program.bmp)
 ![Screenshot](https://github.com/achohan01/Summary/blob/master/College%20Program.bmp)
 ![Screenshot](https://github.com/achohan01/Summary/blob/master/CollegeTester.png)
