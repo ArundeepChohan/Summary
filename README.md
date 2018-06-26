@@ -7,7 +7,6 @@ A short snippet of what kind of projects I have done.
 ![Screenshot](https://github.com/achohan01/Summary/blob/master/LinkedList.png)
 ![Screenshot](https://github.com/achohan01/Summary/blob/master/MolonLabeWebpage.png)
 ![Screenshot](https://github.com/achohan01/Summary/blob/master/Ms%20Excel.bmp)
-![Screenshot](https://github.com/achohan01/Summary/blob/master/Node.bmp)
 ![Screenshot](https://github.com/achohan01/Summary/blob/master/Polynomial1.bmp)
 ![Screenshot](https://github.com/achohan01/Summary/blob/master/Polynomial2.bmp)
 ![Screenshot](https://github.com/achohan01/Summary/blob/master/Wix1.png)
