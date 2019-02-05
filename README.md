@@ -19,8 +19,6 @@ A short snippet of what kind of projects I have done.
 
 ![Screenshot](https://github.com/achohan01/Summary/blob/master/StarcraftAnimation.png)
 
-![Screenshot](https://github.com/achohan01/Summary/blob/master/StarcraftAnimation2.png)
-
 ![Screenshot](https://github.com/achohan01/Summary/blob/master/LinkedList.png)
 
 ![Screenshot](https://github.com/achohan01/Summary/blob/master/Polynomial1.bmp)
