@@ -31,6 +31,6 @@ A short snippet of what kind of projects I have done.
 
 ![Screenshot](https://github.com/ArundeepChohan/Summary/blob/master/Ms%20Excel.bmp)
 
-![Screenshot](https://github.com/ArundeepChohan/Summary/blob/master/Animation%20Project(High%20School).bmp)
+![Screenshot](https://github.com/ArundeepChohan/Summary/blob/master/RainbowSix.png)
 
 ![Screenshot](https://github.com/ArundeepChohan/Summary/blob/master/Gun%20Video%20Contest.bmp)
