@@ -1,9 +1,9 @@
 # Summary
 A short snippet of what kind of projects I have done.
 
-![Screenshot](https://github.com/ArundeepChohan/Summary/blob/master/RiseofGallantmon.png)
-
 ![Screenshot](https://github.com/ArundeepChohan/Summary/blob/master/Chess.png)
+
+![Screenshot](https://github.com/ArundeepChohan/Summary/blob/master/RiseofGallantmon.png)
 
 ![Screenshot](https://github.com/ArundeepChohan/Summary/blob/master/PokeballThrowingGame.png)
 
