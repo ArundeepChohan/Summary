@@ -19,7 +19,7 @@ A short snippet of what kind of projects I have done.
 
 ![Screenshot](https://github.com/ArundeepChohan/Summary/blob/master/TrackingDashboard.png)
 
-![Screenshot](https://github.com/ArundeepChohan/Summary/blob/master/RockPaperScissor.png)
+![Screenshot](https://github.com/ArundeepChohan/Summary/blob/master/RockPaperScissors.png)
 
 ![Screenshot](https://github.com/ArundeepChohan/Summary/blob/master/CardAgain.png)
 
