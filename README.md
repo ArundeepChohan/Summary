@@ -17,6 +17,8 @@ A short snippet of what kind of projects I have done.
 
 ![Screenshot](https://github.com/ArundeepChohan/Summary/blob/master/MolonLabeWebpage.png)
 
+![Screenshot](https://github.com/ArundeepChohan/Summary/blob/master/TrackingDashboard.png)
+
 ![Screenshot](https://github.com/ArundeepChohan/Summary/blob/master/AddedSearchType.png)
 
 ![Screenshot](https://github.com/ArundeepChohan/Summary/blob/master/CollegeTester.png)
