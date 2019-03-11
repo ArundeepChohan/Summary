@@ -13,6 +13,8 @@ A short snippet of what kind of projects I have done.
 
 ![Screenshot](https://github.com/ArundeepChohan/Summary/blob/master/TorvaPlatebody.png)
 
+![Screenshot](https://github.com/ArundeepChohan/Summary/blob/master/Centario.png)
+
 ![Screenshot](https://github.com/ArundeepChohan/Summary/blob/master/CollegeProgram.png)
 
 ![Screenshot](https://github.com/ArundeepChohan/Summary/blob/master/MolonLabeWebpage.png)
