@@ -7,7 +7,7 @@ A short snippet of what kind of projects I have done.
 
 ![Screenshot](https://github.com/ArundeepChohan/Summary/blob/master/PokeballThrowingGame.png)
 
-![Screenshot](https://github.com/ArundeepChohan/Summary/blob/master/canuckslogo.jpg)
+![Screenshot](https://github.com/ArundeepChohan/Summary/blob/master/Canucks.png)
 
 ![Screenshot](https://github.com/ArundeepChohan/Summary/blob/master/LandscapeImage.png)
 
