@@ -1,7 +1,7 @@
 # Summary
 A short snippet of what kind of projects I have done.
 
-![Screenshot](https://github.com/ArundeepChohan/Summary/blob/master/Chess.png)
+![Screenshot](https://github.com/ArundeepChohan/Summary/blob/master/Chess.jpg)
 
 ![Screenshot](https://github.com/ArundeepChohan/Summary/blob/master/RiseofGallantmon.png)
 
@@ -32,6 +32,10 @@ A short snippet of what kind of projects I have done.
 ![Screenshot](https://github.com/ArundeepChohan/Summary/blob/master/StarcraftAnimation.png)
 
 ![Screenshot](https://github.com/ArundeepChohan/Summary/blob/master/StarcraftAnimation2.png)
+
+![Screenshot](https://github.com/ArundeepChohan/Summary/blob/master/Oracle.png)
+
+![Screenshot](https://github.com/ArundeepChohan/Summary/blob/master/OracleSQL.png)
 
 ![Screenshot](https://github.com/ArundeepChohan/Summary/blob/master/LinkedList.png)
 
