@@ -1,7 +1,7 @@
 # Summary
 A short snippet of what kind of projects I have done.
 
-![Screenshot](https://github.com/ArundeepChohan/Summary/blob/master/LighthouseLab21DayChallenge.jpg)
+![Screenshot](https://github.com/ArundeepChohan/Summary/blob/master/LighthouseLab21DayChallenge.png)
 
 ![Screenshot](https://github.com/ArundeepChohan/Summary/blob/master/Chess.jpg)
 
